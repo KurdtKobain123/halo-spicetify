@@ -1,0 +1,10 @@
+{
+  "name": "Halo",
+  "description": "Sci-fi HUD theme inspired by the original Xbox theme: chamfered panels, hexagon buttons, scanlines and glowing accents.",
+  "preview": "spartan.png",
+  "readme": "README.md",
+  "usercss": "user.css",
+  "schemes": "color.ini",
+  "authors": [{ "name": "KurdtKobain123", "url": "https://github.com/KurdtKobain123" }],
+  "tags": ["dark", "sci-fi", "hud"]
+}
